@@ -23,6 +23,7 @@ project:
         - file: docs/ollama.md
         - file: docs/litellm.md
         - file: docs/any-llm-gateway.md
+        - file: docs/opper.md
         - file: docs/mcp-servers.md
         - file: docs/web-retrieval.md
         - file: docs/skills.md
